@@ -17,7 +17,7 @@ setup(
     ],
     extras_require={
         'dev': [
-            'pytest==4.6.11',
+            'pytest>=4.6.11',
             'flake8',
             'pytest-localserver',
             'requests',
