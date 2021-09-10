@@ -8,7 +8,7 @@ setup(
     url='https://github.com/genme/python-rfc6266-parser',
     keywords='rfc6266 parser Content-Disposition http attachments',
     name='rfc6266-parser',
-    version='0.1.0',
+    version='0.1.1',
     license='GNU LGPL',
     platforms='OS-independent',
     py_modules=['rfc6266_parser', 'test_rfc6266_parser'],
